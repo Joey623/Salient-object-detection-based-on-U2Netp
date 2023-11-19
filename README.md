@@ -21,4 +21,3 @@ python utils.py
 ## Acknowledgement
 This project is based on U2Net created by Qin.X _et al._
 [original project address](https://github.com/xuebinqin/U-2-Net).
-Thank them for their open source spirit！
